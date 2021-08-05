@@ -7,9 +7,9 @@ Assignments:
 [Join 30 Days of ML Discord Community]: https://discord.com/invite/f8g8bDq8Vv
 
 Goals:  
-1. Setting up your Kaggle account.  
-2. Move up from Novice to Contributor.  
-3. Make your very first submission to a Kaggle competition.  
+1. Setting up Kaggle account.  
+2. Moving up from Novice to Contributor.  
+3. Making very first submission to a Kaggle competition.  
 
 Time:  
 Appx. 45 minutes.  
