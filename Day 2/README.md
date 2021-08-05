@@ -1,6 +1,6 @@
 Assignments:  
 1. [Read this tutorial].  
-2. [Join 30 Days of ML Discord Community].  
+2. [Complete this exercise].  
 
 [Read this tutorial]: https://www.kaggle.com/colinmorris/hello-python?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-2
 
