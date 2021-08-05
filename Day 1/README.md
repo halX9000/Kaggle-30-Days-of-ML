@@ -6,3 +6,12 @@ Assignments:
 [Follow the instructions in this notebook]: https://www.kaggle.com/alexisbcook/getting-started-with-kaggle?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-1
 
 [Join 30 Days of ML Discord Community]: https://discord.com/invite/f8g8bDq8Vv
+
+Goals:  
+
+1. Setting up your Kaggle account.  
+2. Move up from Novice to Contributor.  
+3. Make your very first submission to a Kaggle competition.  
+
+Time:  
+45 minutes.  
