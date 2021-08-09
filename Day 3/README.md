@@ -1,6 +1,6 @@
 Assignments:  
 1. [Read this tutorial].  
-2. [Complete this exercise]. (If you are logged in Kaggle, open the links in incognito mode).   
+2. [Complete this exercise]. (If you are logged in Kaggle, open the link in incognito mode).   
 
 [Read this tutorial]: https://www.kaggle.com/colinmorris/functions-and-getting-help?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=day-3
 
